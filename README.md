@@ -3,7 +3,9 @@
 Automation for home datacenter infrastructure and apps
 
 Bare Metal:   VMWare vSphere 7
+
 Automation:   Terraform/Ansible
+
 Apps:         
 
               Docker
